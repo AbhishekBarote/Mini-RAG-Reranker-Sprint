@@ -24,7 +24,7 @@ This project implements a lightweight Retrieval-Augmented Generation (RAG) syste
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/AbhishekBarote/Mini-RAG-Reranker-Sprint.git
     cd minirag
     ```
 2.  **Create and activate a virtual environment:**
